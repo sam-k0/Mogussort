@@ -73,4 +73,4 @@ This even means you might be able to play a game of Among Us while you wait for 
 
 # Language
 
-made in c plus plus (or more like c sus sus, hehe)
+made in c plus plus (more like c sus sus, hehe)
