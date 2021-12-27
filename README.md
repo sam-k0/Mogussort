@@ -10,9 +10,9 @@ Then you have come to the right place.
 The 📮mogussort solves all of your sorting problems with an incredible, luck based runtime. You might ask "how fast is it exactly?". On average ist is an absolutly fantastic 36288x slower than a regular bubblesort.
 
 # 📮Example📮
-| Elements | Time |
-|--|--|
-| 10 (one full 📮among📮us📮 lobby) | up to around ~96 seconds (maybe) |
+| Elements | Time | Iterations |
+|--|--|--|
+| 10 (one full 📮among📮us📮 lobby) | up to around ~96 seconds (maybe, tested on Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz) | Up to 12.000.000 or more|
 
 # 📮Sus📮
 ```c++
