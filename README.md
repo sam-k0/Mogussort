@@ -26,6 +26,8 @@ The algorithm will stop once all crewmates are in the right order.
 # 📮Performance📮
 The 📮mogussort solves all of your sorting problems with an incredible, luck based runtime. You might ask "how fast is it exactly?". On average ist is an absolutly fantastic 36288x slower than a regular bubblesort.
 
+This even means you might be able to play a game of Among Us while you wait for the algoritm to finish (now isn't that fantastic?).
+
 # 📮Example📮
 | Elements | Time | Iterations |
 |--|--|--|
