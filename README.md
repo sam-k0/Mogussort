@@ -6,8 +6,8 @@ Your normal and boring sorting algorithms are just too fast?
 You want to introduce some sussy code to your programs?
 
 Then you have come to the right place.
-# 📮How it works📮
 
+# 📮How it works📮
 There are 2 (two, 2📮) tuples, I and O.
 I contains all crewmates at the start of the game.
 O is empty.
@@ -72,5 +72,4 @@ This even means you might be able to play a game of Among Us while you wait for 
 ```
 
 # Language
-
 made in c plus plus (more like c sus sus, hehe)
