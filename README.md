@@ -1,4 +1,4 @@
-# Mogussort
+# 📮mogussort
 World's (📮)SUSSIEST sorting algorithm
 
 # 📮Lore📮
