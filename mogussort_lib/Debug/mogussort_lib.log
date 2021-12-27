@@ -1,0 +1,5 @@
+﻿  dllmain.cpp
+E:\VisualStudio\projects\mogussort_lib\mogussort_lib\dllmain.cpp(53,19): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+  LINK : E:\VisualStudio\projects\mogussort_lib\Debug\mogussort_lib.dll wurde nicht gefunden oder beim letzten inkrementellen Linkvorgang nicht erstellt; vollständiger Link wird durchgeführt.
+     Bibliothek "E:\VisualStudio\projects\mogussort_lib\Debug\mogussort_lib.lib" und Objekt "E:\VisualStudio\projects\mogussort_lib\Debug\mogussort_lib.exp" werden erstellt.
+  mogussort_lib.vcxproj -> E:\VisualStudio\projects\mogussort_lib\Debug\mogussort_lib.dll
