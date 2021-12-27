@@ -24,7 +24,7 @@ This means that the game is lost, and O will be cleared, and I will be reset to 
 The algorithm will stop once all crewmates are in the right order.
 
 # 📮Performance📮
-The 📮mogussort solves all of your sorting problems with an incredible, luck based runtime. You might ask "how fast is it exactly?". On average ist is an absolutly fantastic 36288x slower than a regular bubblesort.
+The 📮mogussort solves all of your sorting problems with an incredible, luck based runtime. You might ask "how fast is it exactly?". On average ist is an absolutly fantastic 36288x slower than a regular bubblesort (with 10 elements (crewmates)).
 
 This even means you might be able to play a game of Among Us while you wait for the algoritm to finish (now isn't that fantastic?).
 
