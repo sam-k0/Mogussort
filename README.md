@@ -12,7 +12,7 @@ The 📮mogussort solves all of your sorting problems with an incredible, luck b
 # 📮Example📮
 | Elements | Time | Iterations |
 |--|--|--|
-| 10 (one full 📮among📮us📮 lobby) | up to around ~96 seconds (maybe, tested on Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz) | Up to 12.000.000 or more|
+| 10 (one full 📮among📮us📮 lobby) | up to around ~96 seconds (maybe, tested on Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz) | Up to ~33.500.000 or more|
 
 # 📮Sus📮
 ```c++
@@ -51,3 +51,7 @@ The 📮mogussort solves all of your sorting problems with an incredible, luck b
 ⡯⣳⠯⠚⢊⠡⡂⢂⠨⠊⠔⡑⠬⡸⣘⢬⢪⣪⡺⡼⣕⢯⢞⢕⢝⠎⢻⢼⣀
 ⠁⡂⠔⡁⡢⠣⢀⠢⠀⠅⠱⡐⡱⡘⡔⡕⡕⣲⡹⣎⡮⡏⡑⢜⢼⡱⢩⣗⣯⣟ 
 ```
+
+# Language
+
+made in c plus plus (ore more like c sus sus, hehe)
