@@ -1,6 +1,9 @@
 # 📮Mogussort
 World's (📮)SUSSIEST sorting algorithm
 
+
+BRAND NEW: ADDED MOGUSSORT_PY WHICH WILL ALSO TAKE UP ALL YOUR MEMORY
+
 # 📮Lore📮
 Your normal and boring sorting algorithms are just too fast?
 You want to introduce some sussy code to your programs?
