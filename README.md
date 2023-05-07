@@ -1,8 +1,10 @@
 # 📮Mogussort
 World's (📮)SUSSIEST sorting algorithm
 
-
-BRAND NEW: ADDED MOGUSSORT_PY WHICH WILL ALSO TAKE UP ALL YOUR MEMORY
+#News:
+There are now 2 python implementations ready for you:
+- MogussortPy in this repo
+- 9FS' Mogussort containing extra mathematical information about performance: https://github.com/9-FS/2023-04-10-Mogussort
 
 # 📮Lore📮
 Your normal and boring sorting algorithms are just too fast?
